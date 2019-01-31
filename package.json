@@ -1,0 +1,10 @@
+{
+  "name": "fo4proj",
+  "version": "1.0.0",
+  "description": "A test project for FO4 team building, etc...",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
+}
